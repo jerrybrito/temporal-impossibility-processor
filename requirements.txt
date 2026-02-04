@@ -1,0 +1,2 @@
+# Requires: temporal-paradox
+# (Not available on PyPI)
